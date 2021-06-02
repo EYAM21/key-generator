@@ -1,0 +1,184 @@
+
+
+.area{
+    text-align:center;
+    font-size:3.0em;
+    color:black;
+    letter-spacing: -1px;
+    font-weight:700;
+    text-transform:uppercase;
+    animation:blur .99s ease-out infinite;
+    text-shadow:0px 0px 5px #fff,
+        0px 0px 7px #fff;
+        position: absolute; 
+  left: 415px;
+  margin-top: 40px;
+  font-family: Agency FB;
+  
+  }
+
+
+
+
+#fd {
+
+    background-image: url("../img/b.png");
+    position: absolute;
+    width: 1167px;
+    height: 658px;
+    margin-top: -9px;
+    left: 90px;
+    background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+input, textarea { outline: none; }
+
+.box-style
+
+    {
+
+        box-shadow: 0 0 10px white;
+        color: #58D3F7;
+        background-color: rgba(245, 245, 245, 0.1);
+        border-radius: 5px;
+        border-color: transparent;
+
+    }
+
+
+   
+
+.selct1
+
+    {
+
+        width: 15px;
+        height: 15px;
+        border-radius: 100%;
+        background-color: rgba(245, 245, 245, 0.1);
+        margin-top: 160px;
+        position: absolute;
+        left: 800px;
+
+    }
+
+.selct2
+
+    {
+
+        width: 15px;
+        height: 15px;
+        border-radius: 100%;
+        background-color: rgba(245, 245, 245, 0.1);
+        margin-top: 210px;
+        position: absolute;
+        left: 800px;
+
+    }
+
+    
+.selct3
+
+{
+
+    width: 15px;
+    height: 15px;
+    border-radius: 100%;
+    background-color: rgba(245, 245, 245, 0.1);
+    margin-top: 260px;
+    position: absolute;
+    left: 800px;
+}
+
+.selct4
+
+{
+
+    width: 15px;
+    height: 15px;
+    border-radius: 100%;
+    background-color: rgba(245, 245, 245, 0.1);
+    margin-top: 310px;
+    position: absolute;
+    left: 800px;
+
+}
+
+
+#caja1 {
+
+
+    box-shadow: 0 0 10px white;
+    color: #58D3F7;
+    background-color: rgba(245, 245, 245, 0.1);
+    border-radius: 5px;
+    border-color: transparent;
+       
+      
+      
+        height: 362px;
+        width: 575px;
+        margin-left: 345px;
+       margin-top: 130px;
+       position: absolute;
+
+}
+
+#t5 {
+    margin-left: 380px;
+    margin-top:180px;
+    position: absolute;
+    width: 130px;
+   
+
+}
+
+
+#gnc{
+
+    margin-top:367px;
+position: absolute;
+left: 365px;
+width: 500px;
+}
+
+#bt2{
+
+    margin-top:317px;
+position: absolute;
+left: 365px;
+width: 300px;
+}
+
+
+#btn {
+
+    margin-top:495px;
+    left: 590px;
+    position: absolute;
+    box-shadow: 0 0 10px white;
+
+}
+
+#mov {
+position: absolute;
+    left: -25px;
+}
+
+
+
+footer
+
+{
+
+    width: 100%;
+    color: #58D3F7;
+    position: absolute;
+    bottom: 3px;
+    text-align: center;
+    padding-top: 10px;
+    text-shadow: 0 0 15px;
+
+}
